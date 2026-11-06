@@ -1,5 +1,16 @@
-# 💫 About Me:
-I'm currently working as student researcher in  Synthesis of Electronic Health Record (EHR) data using machine learning, particularly Generative Adversarial Networks.<br>I'm currently pursuing Bachelor of Computer Science in Nanyang Technological University.<br>I'm receipient of Nanyang Scholarship and part of CN Yang Scholar's Programme focused on research.
+# 💫 About Me
+
+I'm a final-year Computer Science student at **Nanyang Technological University, Singapore**, a **Nanyang Scholarship recipient**, and part of the **CN Yang Scholars Programme**.
+
+🔬 My current research explores how differentially private fine-tuning affects uncertainty estimation in large language models, particularly their ability to distinguish correct from incorrect answers and decide when to abstain.
+
+🏥 Previously, I worked on generating synthetic Electronic Health Record (EHR) data using Generative Adversarial Networks (GANs).
+
+💻 I also enjoy building software. My project experience includes backend development with Django REST Framework, API integration, and connecting backend services to React frontends.
+
+🌱 I'm interested in trustworthy AI, machine learning, and backend engineering.
+
+📫 Open to part-time opportunities from **January 2027** and graduate **Software / ML Engineering** roles from **July 2027**.
 
 
 ## 🌐 Socials:
